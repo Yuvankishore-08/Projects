@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body{
+    background-image: url(pexels-andreimike-1271619.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.logo img{
+    height: 30px;
+    margin-top: 15px;
+}
+.logo h1{
+    text-transform: uppercase;
+    color: azure;
+}
+.logo a{
+    text-decoration: none;
+    color: white;
+    
+}
+.logo ul{
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 950px;
+    margin-top: -40px;
+    
+}
+.logo li{
+    display: inline-block;
+    padding: 20px 10px;
+    
+    
+}
+.logo li a{
+    margin-top: 100px;
+}
+.logo a:hover{
+    color: black;
+    box-shadow: 10px;
+}
+.sec{
+    text-align: center;
+    margin-top: 150px;
+}
+.sec h1{
+    text-transform: uppercase;
+    color: black;
+    font-size: xx-large;
+}
+.sec p{
+    font-size: larger;
+}
+.sear{
+    margin-left: 500px;
+    border-radius: 15px;
+}
+
+i{
+    
+    
+
+}
